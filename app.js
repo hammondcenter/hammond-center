@@ -6,7 +6,7 @@ const mongoose = require("mongoose");
 const app = express();
 app.set("view engine", "ejs");
 app.use(bodyParser.urlencoded({ extended: true }));
-app.use(express.static("public"));
+app.use(express.static("res"));
 
 mongoose.connect("mongodb+srv://nathan:7lRNSzasTHoOluYL@nathanhammond.affbppz.mongodb.net/?retryWrites=true&w=majority");
 
