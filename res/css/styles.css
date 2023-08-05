@@ -1,0 +1,59 @@
+* {
+    font-family: 'Lexend', sans-serif;
+}
+
+#blueBackground{
+    background-color: #023E8A;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+h1 {
+    font-weight: 900;
+    color: #073763;
+    text-align: center;
+}
+
+h2 {
+    font-weight: 800;
+    color: #0B5394;
+}
+
+h3 {
+    font-weight: 700;
+    color: #3D85C6;
+}
+
+h4 {
+    font-weight: 600;
+    color: #3D85C6;
+}
+
+h5 {
+    font-weight: 500;
+    color: #3D85C6;
+}
+
+h6 {
+    font-weight: 400;
+    color: #3D85C6;
+}
+
+p {
+    font-weight: 300;
+    
+}
+
+em {
+    font-weight: 200;
+    color: #71a2c1;
+}
+
+li {
+    font-weight: 300;
+}
+
+
+
