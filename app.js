@@ -3,7 +3,7 @@ require('dotenv').config();
 const express = require("express");
 const bodyParser = require("body-parser");
 const mongoose = require('./db');
-const encrypt = require("mongoose-encryption")
+//const encrypt = require("mongoose-encryption")
 
 // Export all controllers
 const { createNewUser, validateUser } = require('./controllers/userController');
