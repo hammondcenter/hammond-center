@@ -1,0 +1,9 @@
+# THIS FILE TELLS GITHUB WHICH FILES/FOLDERS TO IGNORE
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# dotenv environment variables file
+.env
+.env.test
